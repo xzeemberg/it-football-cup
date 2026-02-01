@@ -1,0 +1,140 @@
+{
+  "teams": [
+    {
+      "id": "team-1",
+      "name": "ป่อจายน่าฮัก",
+      "logo": "https://uppic.cloud/ib/Hlk2HA7f1bp5s9b_1769524754.png",
+      "players": [
+        "nets",
+        "Kla",
+        "toomtarm",
+        "champ",
+        "tae",
+        "bonus"
+      ]
+    },
+    {
+      "id": "team-2",
+      "name": "ฝันร้ายไอที ทีม A",
+      "logo": "https://uppic.cloud/ib/QxormNL0b1NGmL8_1769782963.png",
+      "players": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": "team-3",
+      "name": "ฝันร้ายไอที ทีม B",
+      "logo": "https://uppic.cloud/ib/kCcJA09aFrcbsxB_1769783038.png",
+      "players": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": "team-4",
+      "name": "kitty united",
+      "logo": "https://uppic.cloud/ib/bROgK7QJPmMH5rd_1769525901.png",
+      "players": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": "team-5",
+      "name": "NO LIMITED 2008",
+      "logo": "https://uppic.cloud/ib/ICIWd4vegrL9CQ9_1769525955.png",
+      "players": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": "team-6",
+      "name": "เดินโม่ง FC",
+      "logo": "https://uppic.cloud/ib/s0CwFoFVBzy29EO_1769526071.png",
+      "players": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": "team-7",
+      "name": "บังบอลสั่งลุย",
+      "logo": "https://uppic.cloud/ib/Pt4ajU5AkrhUuui_1769526138.png",
+      "players": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": "team-1769930613729",
+      "name": " Last Minute",
+      "logo": "https://uppic.cloud/ib/ZEf9QkH1IsJbyEL_1769930753.png",
+      "players": [
+        {
+          "id": "1769930871964-4c9xnc6ta",
+          "name": "ศุภฤกษ์",
+          "position": "Player",
+          "number": "1"
+        },
+        {
+          "id": "1769930885398-85rtpbw0u",
+          "name": "พัชรดนัย",
+          "position": "Player",
+          "number": "2"
+        },
+        {
+          "id": "1769930893814-kbx4ruz5n",
+          "name": " กฤตชัย",
+          "position": "Player",
+          "number": "3"
+        },
+        {
+          "id": "1769930910031-9pqhkvs9t",
+          "name": "รุ่งคมสัน",
+          "position": "Player",
+          "number": "4"
+        },
+        {
+          "id": "1769930928807-op1xyh5ji",
+          "name": "ธนวัฒน์",
+          "position": "Player",
+          "number": "5"
+        },
+        {
+          "id": "1769930942424-0570x9hux",
+          "name": " ดรัณภพ",
+          "position": "Player",
+          "number": "6"
+        }
+      ]
+    }
+  ],
+  "matches": [],
+  "isTournamentStarted": false
+}
